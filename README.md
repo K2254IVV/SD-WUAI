@@ -16,5 +16,4 @@
    ```bash
    git clone https://github.com/K2254IVV/SD-WUAI.git
    cd SD-WUAI
-   ./install.sh
-   ./run.sh
+И ПОТОМ ЗАПУСКАЕМ ЧЕРЕЗ sh ВСЕ ЧАСТИ ПО ПОРЯДКУ!!!
